@@ -1,0 +1,3 @@
+[submodule "package/kernel/rtl8812au-ac"]
+	path = package/kernel/rtl8812au-ac
+	url = https://github.com/crowzK/openwrt-rtl8812au-ac.git
